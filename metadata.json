@@ -1,0 +1,5 @@
+{
+  "name": "Control de Asistencias",
+  "description": "Sistema de gestión de personal, cronogramas y auditoría con integración de terminal y Supabase.",
+  "requestFramePermissions": []
+}
